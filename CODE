@@ -1,0 +1,6 @@
+umber=int(input("number"))
+
+if number/2==int(number/2) and (number/2)/2==int(number/2)/2 :
+   print("even")
+else:
+  print("odd")
